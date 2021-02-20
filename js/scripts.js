@@ -63,5 +63,9 @@
     $('#imageLink6').on('click', function () {
       $("#img6").slideToggle();
     });
+       
+       $('#imageLink7').on('click', function () {
+      $("#img7").slideToggle();
+    });
 
 })(jQuery); // End of use strict
