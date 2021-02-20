@@ -64,7 +64,7 @@
       $("#img6").slideToggle();
     });
        
-       $('#imageLink7').on('click', function () {
+     $('#imageLink7').on('click', function () {
       $("#img7").slideToggle();
     });
 
